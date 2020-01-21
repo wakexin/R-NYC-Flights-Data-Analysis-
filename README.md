@@ -3,7 +3,7 @@
 title: "HW2"
 author: "Tianze Wang, Kexin Wang"
 date: "9/24/2019"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 ```{r setup, include=FALSE}
